@@ -2,4 +2,4 @@
 
 
 
-Este arquivo será usado para armazenar as informações da engenharia de software
+Este repositório será usado para armazenar as informações da engenharia de software
